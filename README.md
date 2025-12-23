@@ -1,7 +1,7 @@
 # KeyboardName
 
 This repository contains implementations of a keyboard layout detector in both C# (.NET) and C++.
-I had some problems QWERTY an QWERTZ keyboards.
+- I had some problems with detection of Slovak QWERTY an QWERTZ keyboards.
 
 ## Projects
 
