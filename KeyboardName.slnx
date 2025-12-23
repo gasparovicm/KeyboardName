@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+  </Folder>
+  <Project Path="KeyboardName/KeyboardName.csproj" />
+  <Project Path="KeyboardNameCpp/KeyboardNameCpp.vcxproj" Id="5e0da0e3-4be2-4b72-81e7-1a6050ed2c7e" />
+</Solution>
